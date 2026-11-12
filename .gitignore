@@ -1,0 +1,5 @@
+# Nunca subir el contenedor cifrado ni su respaldo de cabecera
+boveda.img
+*.header.bak
+.boveda.lock
+boveda/
